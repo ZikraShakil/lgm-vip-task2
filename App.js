@@ -37,7 +37,7 @@ class App extends Component {
       <nav className="navbar">
         <div className="nav-items">
           <h3 class="first-h2">LET'S GROW MORE</h3>
-          <button onClick={this.updateState}>find Users</button>
+          <button onClick={this.updateState}>Get Users</button>
           </div>
         </nav>    
           
